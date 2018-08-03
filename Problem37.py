@@ -1,4 +1,6 @@
 from math import sqrt
+from functools import reduce
+from math import pi
 
 def primeSieve(max):
     primes = []
